@@ -21,7 +21,7 @@ dynamic `SchemaView` endpoint.
 
 ### A minimal example with Swagger UI
 
-Assuming you've followed the example from the schemas documentation for routing
+Assuming you've followed the example from the [schemas documentation](https://www.django-rest-framework.org/api-guide/schemas/) for routing
 a dynamic `SchemaView`, a minimal Django template for using Swagger UI might be
 this:
 
